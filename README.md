@@ -9,4 +9,4 @@
 - Flexbox;
 - Grid layout;
 
-Знакомство с проектом (https://github.com/nexedi13/russian-travel)
+Знакомство с проектом (https://nexedi13.github.io/russian-travel/index.html)
